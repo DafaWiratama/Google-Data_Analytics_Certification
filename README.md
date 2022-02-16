@@ -1,5 +1,7 @@
 # Google : Data Analytics Certification
 
+<img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Smiley face" height="250" width="250">
+
 Specialization Course Link: [https://www.coursera.org/professional-certificates/google-data-analytics]
 
 #### There are 8 Courses in this Professional Certificate
